@@ -1,0 +1,34 @@
+body{
+    padding: 5% 10%;
+    background-color: aliceblue;
+}
+#subtext{
+    text-align: center;
+    color: blue;
+}
+h1 {
+    font-size: 3.5em;
+    text-align: center;
+}
+p{
+    width: 70%;
+    margin: 0 auto;
+}
+i{
+    margin: 30px 0;
+    display: block;
+}
+ol{
+    width: 55%;
+    margin: 0 auto;
+}
+li{
+    margin: 20px 0;
+}
+
+img{
+    width: 40%;
+    height: 40%;
+    display: block;
+    margin: 0 auto;
+}
